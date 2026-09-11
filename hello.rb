@@ -1,0 +1,1 @@
+puts "Hello, World! This is a simple Ruby program that prints 'Hello, World!' to the console."
